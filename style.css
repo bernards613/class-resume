@@ -46,10 +46,10 @@ body {
 #header {
     width: 99.8%;
     height: 50px;
-    background: #FF8080;
+    background: ##2EF0E6;
     border: solid #CCCCCC thin;
-    border-bottom: solid #f9e9a1 10px;
-    border-top: solid #2297a6 10px;
+    border-bottom: solid #441dc4 10px;
+    border-top: solid #791dc4 10px;
     padding-top: 20px;
     align-content: center;
     text-align: center;
