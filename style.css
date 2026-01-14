@@ -106,7 +106,7 @@ content {
 #leftEdge {
     float: left;
     border-left: solid #CCCCCC thin;
-    background: #2297a6;
+    background: #791dc4;
     width: 1%;
     height: 2900px;
 }
@@ -114,7 +114,7 @@ content {
 #rightEdge {
     float: right;
     border-left: solid #CCCCCC thin;
-    background: #2297a6;
+    background: #791dc4;
     width: 1%;
     height: 2900px;
 }
