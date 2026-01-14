@@ -46,10 +46,10 @@ body {
 #header {
     width: 99.8%;
     height: 50px;
-    background: ##2EF0E6;
+    background: ##2D3A45;
     border: solid #CCCCCC thin;
-    border-bottom: solid #441dc4 10px;
-    border-top: solid #791dc4 10px;
+    border-bottom: solid #3E4C59 10px;
+    border-top: solid #1F2933 10px;
     padding-top: 20px;
     align-content: center;
     text-align: center;
@@ -106,7 +106,7 @@ content {
 #leftEdge {
     float: left;
     border-left: solid #CCCCCC thin;
-    background: #791dc4;
+    background: #CBD5E1;
     width: 1%;
     height: 2900px;
 }
@@ -114,7 +114,7 @@ content {
 #rightEdge {
     float: right;
     border-left: solid #CCCCCC thin;
-    background: #791dc4;
+    background: #CBDE51;
     width: 1%;
     height: 2900px;
 }
