@@ -61,9 +61,13 @@ a.button {
     border: 1px outset buttonborder;
     border-radius: 20px;
     color: black;
-    background-color: mediumpurple;
+    background-color: #5A82C4;
     text-decoration: none;
     margin: 20px;
+}
+
+a.button:active {
+    background-color: #3F5E8C;
 }
 
 content {
@@ -114,7 +118,7 @@ content {
 #rightEdge {
     float: right;
     border-left: solid #CCCCCC thin;
-    background: #CBDE51;
+    background: #CBD5E1;
     width: 1%;
     height: 2900px;
 }
