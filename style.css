@@ -59,9 +59,9 @@ body {
 a.button {
     padding: 6px;
     border: 1px outset buttonborder;
-    border-radius: 7px;
+    border-radius: 20px;
     color: black;
-    background-color: azure;
+    background-color: mediumpurple;
     text-decoration: none;
     margin: 20px;
 }
